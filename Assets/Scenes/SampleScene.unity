@@ -269,11 +269,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   persona1: marta
-  persona2: 
-  persona3: 
-  capitalpersona3: 0
+  persona2: juan
+  persona3: luis
+  capitalpersona3: 14000
   capitalpersona1: 20000
-  capitalpersona2: 0
+  capitalpersona2: 12000
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
